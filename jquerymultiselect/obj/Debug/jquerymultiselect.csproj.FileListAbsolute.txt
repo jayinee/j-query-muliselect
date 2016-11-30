@@ -1,0 +1,6 @@
+D:\jayinee working\jquerymultiselect\jquerymultiselect\bin\jquerymultiselect.dll.config
+D:\jayinee working\jquerymultiselect\jquerymultiselect\bin\jquerymultiselect.dll
+D:\jayinee working\jquerymultiselect\jquerymultiselect\bin\jquerymultiselect.pdb
+D:\jayinee working\jquerymultiselect\jquerymultiselect\obj\Debug\jquerymultiselect.dll
+D:\jayinee working\jquerymultiselect\jquerymultiselect\obj\Debug\jquerymultiselect.pdb
+D:\jayinee working\jquerymultiselect\jquerymultiselect\obj\Debug\jquerymultiselect.csprojResolveAssemblyReference.cache
